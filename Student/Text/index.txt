@@ -1,0 +1,30 @@
+Student_Indonesia_Aloysia Yolanda Krismanto.txt
+Student_Indonesia_Angeline Keisya Andani.txt
+Student_Indonesia_Antika Lestari Sugiatno.txt
+Student_Indonesia_Audrey Ziskind Xaviera.txt
+Student_Indonesia_Ayudyah Putri Kirana.txt
+Student_Indonesia_Azka Zahra Maziya.txt
+Student_Indonesia_Bintang Putra Hardian.txt
+Student_Indonesia_Brianna Olivia Tangamus.txt
+Student_Indonesia_Caithleen Calvina Hojaya.txt
+Student_Indonesia_Clarissa Luvina Halim.txt
+Student_Indonesia_Dafa Yainahu.txt
+Student_Indonesia_Danny Rinaldy.txt
+Student_Indonesia_Dayang Faza Maritz.txt
+Student_Indonesia_Devani Ainun Pradiva.txt
+Student_Indonesia_Devita Maharani.txt
+Student_Indonesia_Dewi Aryani.txt
+Student_Indonesia_Dinda Salsa Billa.txt
+Student_Indonesia_Elshalia Rahayu.txt
+Student_Indonesia_Faisal Akbar Fadhilah.txt
+Student_Indonesia_Ferica Talia Tan.txt
+Student_Malaysia_Afiza Binti Afendi.txt
+Student_Malaysia_Allisabeth Bt Sulai.txt
+Student_Malaysia_Angeline Wong Soon Qi.txt
+Student_Malaysia_Ariq Aqil.txt
+Student_Malaysia_Beatricia Maryann Ema.txt
+Student_Malaysia_Carlos Ecin Anak Mang.txt
+Student_Malaysia_Dayang Mahdia Qistina Bt Awangku Husni.txt
+Student_Malaysia_Ervina Lia.txt
+Student_Malaysia_Fellysa Aster Ak Dorin.txt
+Student_Malaysia_Hamzatul Amalia Binti Mohamad Nazri.txt
