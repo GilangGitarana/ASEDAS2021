@@ -6,8 +6,8 @@ Invitation_Indonesia_Atridia Wilastrina.txt
 Invitation_Indonesia_Ayoeningsih Dyah Woelandhary.txt
 Invitation_Indonesia_Bayyinah Nurrul Haq.txt
 Invitation_Indonesia_Cama Juli Ria.txt
-Invitation_Indonesia_Damar Rangga Putra S.Sn., M.Ds..txt
-Invitation_Indonesia_Desi Dwi Kristanto..txt
+Invitation_Indonesia_Damar Rangga Putra.txt
+Invitation_Indonesia_Desi Dwi Kristanto.txt
 Invitation_Indonesia_Dina Lestari.txt
 Invitation_Indonesia_Erik Armayuda.txt
 Invitation_Indonesia_Hanif Almadani Utomo.txt
@@ -26,3 +26,12 @@ Invitation_Indonesia_Vidya Kharishma.txt
 Invitation_Indonesia_Wahyudi Pratama.txt
 Invitation_Indonesia_Zita Nadia.txt
 Invitation_Malaysia_Ahamad Tarmizi Azizan (Atan Af).txt
+Invitation_Malaysia_Fairus Ahmad Yusof.txt
+Invitation_Malaysia_Farhana Nadirah.txt
+Invitation_Malaysia_Fazlina.txt
+Invitation_Malaysia_Muhammad Asqalani Bin Hamizi.txt
+Invitation_Malaysia_Nor Arseha Binti Karimon.txt
+Invitation_Malaysia_Rozita Shamsuddin(2).txt
+Invitation_Malaysia_Rozita Shamsuddin.txt
+Invitation_Malaysia_Siti Aishah Binti Hassan.txt
+Invitation_Malaysia_TS. Marzuki Bin Abdullah.txt

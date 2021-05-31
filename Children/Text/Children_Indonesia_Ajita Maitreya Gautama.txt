@@ -1,5 +1,5 @@
-Name: Ajita Maitreya Gautama;
-Age: 5. Preschool;
+Name:Ajita Maitreya Gautama;
+Age: 5;
 Country: Indonesia;
 Title: Me And Hope;
 Year: 2021;
