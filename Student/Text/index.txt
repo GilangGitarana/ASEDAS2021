@@ -10,7 +10,7 @@ Student_Indonesia_Caithleen Calvina Hojaya.txt
 Student_Indonesia_Clarissa Luvina Halim.txt
 Student_Indonesia_Dafa Yainahu.txt
 Student_Indonesia_Danny Rinaldy.txt
-Student_Indonesia_Dayang Faza Maritz.txt
+Student_Indonesia_Dayang Faza Maritza.txt
 Student_Indonesia_Devani Ainun Pradiva.txt
 Student_Indonesia_Devita Maharani.txt
 Student_Indonesia_Dewi Aryani.txt
