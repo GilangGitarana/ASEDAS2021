@@ -27,4 +27,4 @@ Public_Malaysia_Arissa Raihanah Binti Abdul Razak.txt
 Public_Malaysia_Arman Qusairy Bin Abdul Razak.txt
 Public_Malaysia_Brinoelson Bin Kurinalis.txt
 Public_Malaysia_Emilia Abdull Manan.txt
-Public_Malaysia_Fakhrul Zaman Bin Mohamad. Sambas.txt
+Public_Malaysia_Fakhrul Zaman Bin Mohamad Sambas.txt
