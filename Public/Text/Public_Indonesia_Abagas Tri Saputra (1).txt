@@ -1,4 +1,4 @@
-Name: Abagas Tri Saputra (1);
+Name: Abagas Tri Saputra;
 Country: Indonesia;
 Title: Halaman Baru;
 Year: 2021;
