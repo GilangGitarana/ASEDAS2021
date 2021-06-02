@@ -1,0 +1,8 @@
+Name:Janice Wijaya;
+Age: 6;
+Country: Indonesia;
+Title: The Colour Of My Dream;
+Year: 2021;
+Concept: Janice dreams that the pandemic will be over soon and she could play in the public playground again. A colourful dream, a new hope for all of us.;
+
+

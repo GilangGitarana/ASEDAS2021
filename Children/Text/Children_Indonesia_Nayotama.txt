@@ -1,0 +1,8 @@
+Name:Nayotama;
+Age: 8;
+Country: Indonesia;
+Title: Pergilah Corona;
+Year: 2021;
+Concept: Pergilah corona jangan ganggu kedamaian kami, jangan ganggu kesehatan kami;
+
+

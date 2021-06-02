@@ -1,0 +1,8 @@
+Name:Marvell Chen;
+Age: 12;
+Country: Indonesia;
+Title: Mimpi Masa Depan;
+Year: 2021;
+Concept: Tidak seharusnya dunia muram karena pandemi yang membuat dunia tidak menentu. Kita pasti bisa kembali mengisi dunia dengan canda tawa dan kembali dengan aktivitas semula.;
+
+
