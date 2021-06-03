@@ -1,0 +1,5 @@
+Name: Samet Alaca;
+Country: Turkey;
+Title: Nature;
+Year: 2021;
+Concept: There is no problem that nature cannot handle.;

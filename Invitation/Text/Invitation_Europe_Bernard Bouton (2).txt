@@ -1,0 +1,5 @@
+Name: Bernard Bouton;
+Country: France;
+Title: Bus Stop;
+Year: 2021;
+Concept: The pandemic is over, the pangolin is removed from responsibility of the disease, then the coronaviruses are stranded without means of transport.;

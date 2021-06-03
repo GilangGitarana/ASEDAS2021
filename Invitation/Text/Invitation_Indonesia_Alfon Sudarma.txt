@@ -1,0 +1,5 @@
+Artist: Alfonsudarma;
+Country: Indonesia;
+Title: New Hope;
+Year: 2021;
+Concept: New hope to get the better life;

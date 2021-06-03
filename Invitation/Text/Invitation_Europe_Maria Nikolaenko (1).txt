@@ -1,0 +1,5 @@
+Name: Maria Nikolaenko;
+Country: Russia;
+Title: Coronavirus;
+Year: 2021;
+Concept: COVID-19 is an infectious disease caused by a new type of coronavirus that humans are thought to have contracted from animals. The exact source of the infection has not yet been established.;
