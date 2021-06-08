@@ -1,37 +1,313 @@
+Invitation_Africa_Mohamed Mahmoud Ahmed Shehata.txt
+Invitation_Africa_Mouhamed Ndiaye.txt
+Invitation_Africa_Rita Kevorkian.txt
+Invitation_America_Ale Feij¢.txt
+Invitation_America_Alejandro Caner Labradas.txt
+Invitation_America_Alejandro Rivera Plata.txt
+Invitation_America_Andrea De Souza Rocha.txt
+Invitation_America_Angie Hall.txt
+Invitation_America_Caitlin Kepler.txt
+Invitation_America_Carina Amarillo.txt
+Invitation_America_Cesar Tschanz.txt
+Invitation_America_Claudia Daniela Martin.txt
+Invitation_America_Daniel Segura Pel†ez.txt
+Invitation_America_Dejan Mraovic.txt
+Invitation_America_Dr. Mahima Gupta.txt
+Invitation_America_Emma Becka.txt
+Invitation_America_Grant Grabow.txt
+Invitation_America_Hugo Zimmerman.txt
+Invitation_America_Hyungjoo A. Kim.txt
+Invitation_America_Januar Valdes Barrios.txt
+Invitation_America_Jorge Gonzalez Morales.txt
+Invitation_America_Kathiana Cardona (1).txt
+Invitation_America_Kathiana Cardona (2).txt
+Invitation_America_Keith Kitz.txt
+Invitation_America_Kendra Oskola.txt
+Invitation_America_Luis Antonio Rivera Rodriguez.txt
+Invitation_America_Marcelo Gilabert Barba.txt
+Invitation_America_Marina Lobato.txt
+Invitation_America_Marite Crespo.txt
+Invitation_America_Melissa Nieuwenhuis.txt
+Invitation_America_Olga Severina (1).txt
+Invitation_America_Olga Severina (2).txt
+Invitation_America_Tanya Antamba.txt
+Invitation_America_Tongyu Huang.txt
+Invitation_America_Ulises Ortiz Castillo.txt
+Invitation_America_Walter Nelson Antueno.txt
+Invitation_Asia_Abdul Naser Wannous (1).txt
+Invitation_Asia_Abdul Naser Wannous (2).txt
+Invitation_Asia_Asst. Prof. Anchana Nangkala.txt
+Invitation_Asia_Asst. Prof. Suporn Soonthornnon.txt
+Invitation_Asia_Asst. Professor Attaphon Kongpat.txt
+Invitation_Asia_Bo Suk Lee.txt
+Invitation_Asia_Bui Thanh Viet Hung.txt
+Invitation_Asia_Cai Zheye.txt
+Invitation_Asia_Chanakit Thanasuk.txt
+Invitation_Asia_Chen Shunzi.txt
+Invitation_Asia_Chia Hsiang Lee.txt
+Invitation_Asia_Chikako Oguma.txt
+Invitation_Asia_Choi, Young Kyu.txt
+Invitation_Asia_Chotipong Bunyarit.txt
+Invitation_Asia_Christopher Han.txt
+Invitation_Asia_Daphna Markman Zinemanas.txt
+Invitation_Asia_Dr. Pannakorn Kaeorakmook.txt
+Invitation_Asia_Elham Ali Mohammed Al-Arashi.txt
+Invitation_Asia_Emily Shih.txt
+Invitation_Asia_Emran Abtahi.txt
+Invitation_Asia_Fatemeh Feyzi Esfangareh.txt
+Invitation_Asia_Fujii Yuka.txt
+Invitation_Asia_Funao Hina.txt
+Invitation_Asia_Guo Chen.txt
+Invitation_Asia_He Huang (1).txt
+Invitation_Asia_He Huang (2).txt
+Invitation_Asia_He Huang (3).txt
+Invitation_Asia_Hilda Rezaei.txt
+Invitation_Asia_Hitoshi Miura.txt
+Invitation_Asia_Hossein Abdi.txt
+Invitation_Asia_Hyun Ho Shin.txt
+Invitation_Asia_Ikari Yuna.txt
+Invitation_Asia_Jahan Hanova.txt
+Invitation_Asia_Jerry Ramirez.txt
+Invitation_Asia_Jianfei Lu.txt
+Invitation_Asia_Jisha Sameer.txt
+Invitation_Asia_Kamtorn Kerdthip.txt
+Invitation_Asia_Keeta Isran.txt
+Invitation_Asia_Khawaja Izhar.txt
+Invitation_Asia_Kondo Yukino.txt
+Invitation_Asia_Kye-Soo Myung.txt
+Invitation_Asia_Maruja Panti (1).txt
+Invitation_Asia_Maruja Panti (2).txt
+Invitation_Asia_Masoud Saffari.txt
+Invitation_Asia_Mehdi Asaditabar.txt
+Invitation_Asia_Mohamad Idham (1).txt
+Invitation_Asia_Mohamad Idham (2).txt
+Invitation_Asia_Mongkol Srisombat.txt
+Invitation_Asia_Mr. Apiruk Potituppa.txt
+Invitation_Asia_Muthita Tanglian.txt
+Invitation_Asia_Nattapon Pichairat.txt
+Invitation_Asia_Neda Abbasali Zadeh.txt
+Invitation_Asia_Nguyen Thai Binh (1).txt
+Invitation_Asia_Nguyen Thai Binh (2).txt
+Invitation_Asia_Nguyen Thai Binh (3).txt
+Invitation_Asia_Nguyen Thai Binh (4).txt
+Invitation_Asia_Nguy?n D?c Cu?ng.txt
+Invitation_Asia_Nguy?n D?c Hóng (1).txt
+Invitation_Asia_Nguy?n D?c Hóng (2).txt
+Invitation_Asia_Nusaiba Tahsin.txt
+Invitation_Asia_Ooi Koutaro.txt
+Invitation_Asia_Patara Padungsuntararuk (1).txt
+Invitation_Asia_Patara Padungsuntararuk (2).txt
+Invitation_Asia_Phakdee Tuansiri.txt
+Invitation_Asia_Prach Pimarnman.txt
+Invitation_Asia_Roy Espinosa (1).txt
+Invitation_Asia_Roy Espinosa (2).txt
+Invitation_Asia_Saringkharn Kitiwinit.txt
+Invitation_Asia_Sato Rio.txt
+Invitation_Asia_Seung Min Han.txt
+Invitation_Asia_Shawlin Islam (1).txt
+Invitation_Asia_Shawlin Islam (2).txt
+Invitation_Asia_Shawlin Islam (3).txt
+Invitation_Asia_Sittikorn Tapsuwan.txt
+Invitation_Asia_Sudarat Sukaphat.txt
+Invitation_Asia_Sun Yao.txt
+Invitation_Asia_Supachai Soijit.txt
+Invitation_Asia_Suparaporn Tuannoi.txt
+Invitation_Asia_Suporn Soonthornnon (1).txt
+Invitation_Asia_Suporn Soonthornnon (2).txt
+Invitation_Asia_Sutinee Intanee.txt
+Invitation_Asia_Tanaka Shinpei.txt
+Invitation_Asia_Terlan.txt
+Invitation_Asia_Thanyalak Churpom.txt
+Invitation_Asia_Tiancheng Shi.txt
+Invitation_Asia_Uchino Sota.txt
+Invitation_Asia_Ueno Yura.txt
+Invitation_Asia_Wang Jia Min (1).txt
+Invitation_Asia_Wang Jia Min (2).txt
+Invitation_Asia_Wang Jia Min (3).txt
+Invitation_Asia_Wang Jia Min (4).txt
+Invitation_Asia_Wang Jia Min (5).txt
+Invitation_Asia_Wang Jia Min (6).txt
+Invitation_Asia_Wang Jia Min (7).txt
+Invitation_Asia_Wang Jia Min (8).txt
+Invitation_Asia_Wang Jia Min (9).txt
+Invitation_Asia_Xu Kai Xiang.txt
+Invitation_Asia_Yamada Mei.txt
+Invitation_Asia_Yongwoo Kim.txt
+Invitation_Asia_Yuanchao Wang.txt
+Invitation_Asia_Zhichao Dong.txt
+Invitation_Asia_Zhiguo Wang.txt
+Invitation_Asia_Zhiming Fan.txt
+Invitation_Europe_Abdulkerim Turkaya.txt
+Invitation_Europe_Ahmet Furkan Karabulut.txt
+Invitation_Europe_Alexander Jazykov.txt
+Invitation_Europe_Aleyna Marapoglu.txt
+Invitation_Europe_Aleyna Ulu (1).txt
+Invitation_Europe_Aleyna Ulu (2).txt
+Invitation_Europe_Aleyna Ulu (3).txt
+Invitation_Europe_Anastasia Nikonova.txt
+Invitation_Europe_Andrea Busi.txt
+Invitation_Europe_Andreas Panayi.txt
+Invitation_Europe_Anna Black (1).txt
+Invitation_Europe_Anna Black (2).txt
+Invitation_Europe_Anna Black (3).txt
+Invitation_Europe_Anna Kuzminskaya (1).txt
+Invitation_Europe_Anna Kuzminskaya (2).txt
+Invitation_Europe_Anna Kuzminskaya (3).txt
+Invitation_Europe_Anna Kuzminskaya (4).txt
+Invitation_Europe_Arzu GÅrdal.txt
+Invitation_Europe_Aysegul Gurdal Pamuklu.txt
+Invitation_Europe_AysegÅl Akten.txt
+Invitation_Europe_Bernard Bouton (1).txt
+Invitation_Europe_Bernard Bouton (2).txt
+Invitation_Europe_Dilan Baran.txt
+Invitation_Europe_Esra Ay.txt
+Invitation_Europe_Faden Yagmur Aáik.txt
+Invitation_Europe_Firdaus Khalid.txt
+Invitation_Europe_Gonca Karapinar Akkilic (1).txt
+Invitation_Europe_Gonca Karapinar Akkilic (2).txt
+Invitation_Europe_Gulin Kaplan.txt
+Invitation_Europe_Hakki.txt
+Invitation_Europe_Ivan Kashlakov (1).txt
+Invitation_Europe_Ivan Kashlakov (2).txt
+Invitation_Europe_Iwa Kruczkowska-Krol.txt
+Invitation_Europe_Katarina Kale Novakovic.txt
+Invitation_Europe_Katarzyna Nachman (1).txt
+Invitation_Europe_Katarzyna Nachman (2).txt
+Invitation_Europe_Katarzyna Nachman(3).txt
+Invitation_Europe_Katya Slobodskaia.txt
+Invitation_Europe_Kerem Dikkaya.txt
+Invitation_Europe_Marek Maciejczyk.txt
+Invitation_Europe_Maria Balea.txt
+Invitation_Europe_Maria Nikolaenko (1).txt
+Invitation_Europe_Maria Nikolaenko (2).txt
+Invitation_Europe_Milos Despenis.txt
+Invitation_Europe_MÅnevver Altintop.txt
+Invitation_Europe_Nicos Terzis.txt
+Invitation_Europe_Nurcan Havucgil.txt
+Invitation_Europe_Nuriye Äevik.txt
+Invitation_Europe_Oktay Barkin.txt
+Invitation_Europe_Olena Sarzhenko.txt
+Invitation_Europe_Pavel Pisklakov (1).txt
+Invitation_Europe_Pavel Pisklakov (2).txt
+Invitation_Europe_Pawlowski Miroslaw.txt
+Invitation_Europe_Rainer Greer.txt
+Invitation_Europe_Resul Ay (1).txt
+Invitation_Europe_Resul Ay (2).txt
+Invitation_Europe_Sabina Oberholzer & Renato Tagli (1).txt
+Invitation_Europe_Sabina Oberholzer & Renato Tagli (2).txt
+Invitation_Europe_Samet Alaca.txt
+Invitation_Europe_Sarzhenko Olena & Sarzhenko Alica.txt
+Invitation_Europe_Seher Vural.txt
+Invitation_Europe_Serife Bayindir.txt
+Invitation_Europe_Sukran Ust.txt
+Invitation_Europe_Victor Kovalenko.txt
+Invitation_Europe_Wojciech Osuchowski (1).txt
+Invitation_Europe_Wojciech Osuchowski (2).txt
+Invitation_Europe_Wojciech Zabel (1).txt
+Invitation_Europe_Wojciech Zabel (2).txt
+Invitation_Europe_Yusuf Aáikgîz.txt
+Invitation_Europe_Zavyalova Olseya Andreevna.txt
+Invitation_Europe_ZÅlfÅkar Sayin.txt
 Invitation_Indonesia_Abdul Haris Rustaman.txt
+Invitation_Indonesia_Abdusyukur Budiarvin Septiadi.txt
 Invitation_Indonesia_Agoes Joesoef.txt
+Invitation_Indonesia_Alfon Sudarma.txt
 Invitation_Indonesia_Andi Aulia Hamzah.txt
 Invitation_Indonesia_Anton Susanto.txt
+Invitation_Indonesia_Ariani Rachman.txt
+Invitation_Indonesia_Ariesa Pandanwangi.txt
 Invitation_Indonesia_Atridia Wilastrina.txt
 Invitation_Indonesia_Ayoeningsih Dyah Woelandhary.txt
+Invitation_Indonesia_Basnendar Herry Prilosandoso
 Invitation_Indonesia_Bayyinah Nurrul Haq.txt
 Invitation_Indonesia_Cama Juli Ria.txt
+Invitation_Indonesia_Caniggia Putri Sanjaya.txt
+Invitation_Indonesia_Chiara.txt
+Invitation_Indonesia_Christian Novian Tito.txt
+Invitation_Indonesia_Cindy Tamara.txt
 Invitation_Indonesia_Damar Rangga Putra S.Sn., M.Ds..txt
+Invitation_Indonesia_Damar Rangga Putra.txt
 Invitation_Indonesia_Desi Dwi Kristanto.txt
+Invitation_Indonesia_Dewi Lestari.txt
+Invitation_Indonesia_Dhyani Widiyani Hendranto (1).txt
+Invitation_Indonesia_Dhyani Widiyani Hendranto (2).txt
 Invitation_Indonesia_Dina Lestari.txt
+Invitation_Indonesia_Dr. Rahmanu Widayat, M.Sn.txt
 Invitation_Indonesia_Erik Armayuda.txt
+Invitation_Indonesia_Ervans Lawuan.txt
+Invitation_Indonesia_Fahmi Candra Permana.txt
+Invitation_Indonesia_Farhan Deniansah.txt
+Invitation_Indonesia_Gaza Julian.txt
+Invitation_Indonesia_Gilang Cempaka.txt
 Invitation_Indonesia_Hanif Almadani Utomo.txt
+Invitation_Indonesia_Hari Mulyana.txt
+Invitation_Indonesia_I Gusti Ngurah Agung Pramana Wibawa.txt
 Invitation_Indonesia_I Nyoman Natanael.txt
+Invitation_Indonesia_I.G.P. A Mirah Rahmawati.txt
+Invitation_Indonesia_Ignatius Agathon.txt
+Invitation_Indonesia_Ismet Zainal Effendi.txt
+Invitation_Indonesia_Jihannisa Adisfioni.txt
+Invitation_Indonesia_Julianto Oei M.Sn.txt
+Invitation_Indonesia_Koniherawati.txt
+Invitation_Indonesia_Krisna Bayu Kurniawan.txt
 Invitation_Indonesia_Lois Denissa.txt
+Invitation_Indonesia_M. Pillar Moulidarraudha Izal.txt
 Invitation_Indonesia_Mohamad Dzikri Alhamdi.txt
+Invitation_Indonesia_Muhammad Farhan Agustiandiari.txt
 Invitation_Indonesia_Muhammad Iqbal.txt
+Invitation_Indonesia_Muhammad Irfan Nurhakim.txt
+Invitation_Indonesia_Muhammad Kharismatul Izzah (1).txt
+Invitation_Indonesia_Muhammad Kharismatul Izzah (2).txt
+Invitation_Indonesia_Namuz Devandy Pratama.txt
+Invitation_Indonesia_Nuning Y Damayanti.txt
+Invitation_Indonesia_Nurul Primayanti, M.Sc.txt
 Invitation_Indonesia_Peter Rhian Gunawan M.Ds.txt
 Invitation_Indonesia_Prof. Dr. Dharsono, M.Sn..txt
 Invitation_Indonesia_Prof. Dr. Tjetjep Rohendi Rohidi, M.A..txt
+Invitation_Indonesia_Ranang Agung Sugihartono, Agus Suherman, Dharsono.txt
 Invitation_Indonesia_Ratih Mahardika.txt
+Invitation_Indonesia_Ratno Suprapto (1).txt
+Invitation_Indonesia_Ratno Suprapto (2).txt
+Invitation_Indonesia_Reginaldi Anugrah.txt
+Invitation_Indonesia_Retno Purwanti Murdaningsih.txt
+Invitation_Indonesia_Ria Ferrianto.txt
 Invitation_Indonesia_Rio Satriyo Hadiwijoyo.txt
+Invitation_Indonesia_Robert Mugabe.txt
+Invitation_Indonesia_Sarah Dina Romadhona.txt
+Invitation_Indonesia_Sari Dewi Kuncoroputri.txt
+Invitation_Indonesia_Seful Muslimin.txt
+Invitation_Indonesia_Sekar Ayu Kuncoroputri.txt
+Invitation_Indonesia_Sigit Purnomo Adi.txt
+Invitation_Indonesia_Sukma Az Zahra.txt
 Invitation_Indonesia_Tasri Jatnika.txt
 Invitation_Indonesia_Tiarma Dame Ruth Sirait.txt
+Invitation_Indonesia_Tri Kurniati Putri.txt
 Invitation_Indonesia_Vidya Kharishma.txt
 Invitation_Indonesia_Wahyudi Pratama.txt
+Invitation_Indonesia_Widhi Mintarso.txt
+Invitation_Indonesia_Yunisa Fitri Andriani, S.Ds., M.Ds.txt
+Invitation_Indonesia_Yunita Fitra Andriana.txt
 Invitation_Indonesia_Zita Nadia.txt
+Invitation_Indonesia_Zufli Akmansyah.txt
 Invitation_Malaysia_Ahamad Tarmizi Azizan (Atan Af).txt
+Invitation_Malaysia_Aliaa Zahirah Binti Ahmad Hizam.txt
+Invitation_Malaysia_Dr. Mohd Sawari Bin Rahim.txt
+Invitation_Malaysia_Dr. Rosmawati Binti Hamzah.txt
+Invitation_Malaysia_Dr. Sharulnizam Bin Ramli.txt
+Invitation_Malaysia_Dr. Suraya Hani Binti Zakaria.txt
 Invitation_Malaysia_Fairus Ahmad Yusof.txt
+Invitation_Malaysia_Farhana Nadirah Binti Munawer.txt
 Invitation_Malaysia_Farhana Nadirah.txt
 Invitation_Malaysia_Fazlina.txt
+Invitation_Malaysia_Junaidi Bin Awang.txt
+Invitation_Malaysia_Kenny Kinjawan.txt
+Invitation_Malaysia_Mohd Nizam Radzaly.txt
 Invitation_Malaysia_Muhammad Asqalani Bin Hamizi.txt
 Invitation_Malaysia_Nor Arseha Binti Karimon.txt
+Invitation_Malaysia_Rozita Shamsuddin (1).txt
+Invitation_Malaysia_Rozita Shamsuddin (2).txt
 Invitation_Malaysia_Rozita Shamsuddin(2).txt
 Invitation_Malaysia_Rozita Shamsuddin.txt
 Invitation_Malaysia_Siti Aishah Binti Hassan.txt
 Invitation_Malaysia_TS. Marzuki Bin Abdullah.txt
+Invitation_Malaysia_Zaihairun Bin Zulkifli.txt
