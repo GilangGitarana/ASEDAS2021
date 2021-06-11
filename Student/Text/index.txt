@@ -1,6 +1,13 @@
+index.txt
+Student_Asia_David B. Chua.txt
+Student_Europe_Katarzyna Nachman.txt
+Student_Indonesia_Afra Hasna Nurhaliza.txt
+Student_Indonesia_Alfienna Dwi.txt
 Student_Indonesia_Aloysia Yolanda Krismanto.txt
 Student_Indonesia_Angeline Keisya Andani.txt
 Student_Indonesia_Antika Lestari Sugiatno.txt
+Student_Indonesia_April.txt
+Student_Indonesia_Athaya Maulida.txt
 Student_Indonesia_Audrey Ziskind Xaviera.txt
 Student_Indonesia_Ayudyah Putri Kirana.txt
 Student_Indonesia_Azka Zahra Maziya.txt
@@ -13,11 +20,55 @@ Student_Indonesia_Danny Rinaldy.txt
 Student_Indonesia_Dayang Faza Maritza.txt
 Student_Indonesia_Devani Ainun Pradiva.txt
 Student_Indonesia_Devita Maharani.txt
+Student_Indonesia_Devita Mayanda Heerlie.txt
 Student_Indonesia_Dewi Aryani.txt
 Student_Indonesia_Dinda Salsa Billa.txt
 Student_Indonesia_Elshalia Rahayu.txt
 Student_Indonesia_Faisal Akbar Fadhilah.txt
+Student_Indonesia_Fariz Muhammad Fadilah.txt
 Student_Indonesia_Ferica Talia Tan.txt
+Student_Indonesia_Galuh Edelweiss S. Rosyad.txt
+Student_Indonesia_Ghiyast Dhiaurrahman Priyanto.txt
+Student_Indonesia_Ign. Aditya Dirotama.txt
+Student_Indonesia_Karen Evangelia Fajarto.txt
+Student_Indonesia_Kayla Naffisha Rasidi.txt
+Student_Indonesia_Khanza Khairunisa.txt
+Student_Indonesia_Krisna Dwi Setiawan.txt
+Student_Indonesia_M Ilham Rahman.txt
+Student_Indonesia_Matthew Evangelo Fajarto.txt
+Student_Indonesia_Michael Jefta.txt
+Student_Indonesia_Muhammad Amirur Rifki Setiawan.txt
+Student_Indonesia_Muhammad Fathan Muchlisin.txt
+Student_Indonesia_Muhammad Nadziif Habiburrohman.txt
+Student_Indonesia_Muhammad Rafi Safrizal.txt
+Student_Indonesia_Muhammad Raka Malsi.txt
+Student_Indonesia_Nabiilah Rajwa Syarif.txt
+Student_Indonesia_Nadya Reviena Putri.txt
+Student_Indonesia_Naila Akhira Salsabila.txt
+Student_Indonesia_Najla Azuri Raniah.txt
+Student_Indonesia_Nanda Puspita Sari.txt
+Student_Indonesia_Nelsen Chen.txt
+Student_Indonesia_Noval Dhana Ardhani Piliang.txt
+Student_Indonesia_Prayoga.txt
+Student_Indonesia_Prins Khansa Vitantry.txt
+Student_Indonesia_Radinda Putri Salsabila.txt
+Student_Indonesia_Rafiurrizki.txt
+Student_Indonesia_Raiva Viani Saputri.txt
+Student_Indonesia_Rayna Putri Shafira.txt
+Student_Indonesia_Restu Nur Alam.txt
+Student_Indonesia_Rifqi Fakhri Faadhilah.txt
+Student_Indonesia_Rizda Putri Nur Azizah.txt
+Student_Indonesia_Sadira Nawwar.txt
+Student_Indonesia_Stevania Incca.txt
+Student_Indonesia_Syam Sabil.txt
+Student_Indonesia_Syifa Salsabila Silviani.txt
+Student_Indonesia_Tiara Endang Sri Mulyani.txt
+Student_Indonesia_Tiara Fitri Nurhayati.txt
+Student_Indonesia_Vincent Hiawatha Kwee (1).txt
+Student_Indonesia_Vincent Hiawatha Kwee (2).txt
+Student_Indonesia_Viony Victoria.txt
+Student_Indonesia_Yusnita Issa Riyadi.txt
+Student_Indonesia_Yusup Maulana.txt
 Student_Malaysia_Afiza Binti Afendi.txt
 Student_Malaysia_Allisabeth Bt Sulai.txt
 Student_Malaysia_Angeline Wong Soon Qi.txt
@@ -25,6 +76,26 @@ Student_Malaysia_Ariq Aqil.txt
 Student_Malaysia_Beatricia Maryann Ema.txt
 Student_Malaysia_Carlos Ecin Anak Mang.txt
 Student_Malaysia_Dayang Mahdia Qistina Bt Awangku Husni.txt
+Student_Malaysia_Debrikah Demelza Binti Ali.txt
+Student_Malaysia_Erin Wong Zi Yue.txt
 Student_Malaysia_Ervina Lia.txt
+Student_Malaysia_Fellysa Aster Ak Dorin.txt
 Student_Malaysia_Fellysa Ester Ak Dorrin.txt
+Student_Malaysia_Gloria Michelle Anak Lois.txt
 Student_Malaysia_Hamzatul Amalia Binti Mohamad Nazri.txt
+Student_Malaysia_I-Chi, Tu.txt
+Student_Malaysia_Izyan Qistina Imran.txt
+Student_Malaysia_Jonathan Tang Tze Jie.txt
+Student_Malaysia_Lady Lidiana Leka Anak Majar.txt
+Student_Malaysia_Leoneesa Leonard.txt
+Student_Malaysia_Liu Jia Yee.txt
+Student_Malaysia_Mohammad Haikal B. Suhaili.txt
+Student_Malaysia_Muhammad Aizad Bin Shari.txt
+Student_Malaysia_Muhammad Haikal Faiz.txt
+Student_Malaysia_Nia Hanin Zuhayra Binti Rizlan.txt
+Student_Malaysia_Nurshafieqah Binti Abdullah.txt
+Student_Malaysia_Nurshafika Asrin Binti Hajri.txt
+Student_Malaysia_Nurul Zulaikha Shahimi.txt
+Student_Malaysia_Shazarixona Binti Ugak.txt
+Student_Malaysia_Siti Aisahh Binti Abdullah.txt
+Student_Malaysia_Syamir Syahmirwan.txt
