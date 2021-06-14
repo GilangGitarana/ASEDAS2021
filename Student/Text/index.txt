@@ -79,7 +79,6 @@ Student_Malaysia_Dayang Mahdia Qistina Bt Awangku Husni.txt
 Student_Malaysia_Debrikah Demelza Binti Ali.txt
 Student_Malaysia_Erin Wong Zi Yue.txt
 Student_Malaysia_Ervina Lia.txt
-Student_Malaysia_Fellysa Aster Ak Dorin.txt
 Student_Malaysia_Fellysa Ester Ak Dorrin.txt
 Student_Malaysia_Gloria Michelle Anak Lois.txt
 Student_Malaysia_Hamzatul Amalia Binti Mohamad Nazri.txt
