@@ -1,4 +1,4 @@
-Name: Wang-Jia-Min ;
+Name: Wang-Jia-Min;
 Country: Taiwan;
 Title: Chinese Character;
 Year: 2019;

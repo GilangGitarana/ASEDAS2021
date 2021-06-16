@@ -1,4 +1,4 @@
-Name: Wang-Jia-Min ;
+Name: Wang-Jia-Min;
 Country: Taiwan;
 Title: Peace Dialogue;
 Year: 2019;

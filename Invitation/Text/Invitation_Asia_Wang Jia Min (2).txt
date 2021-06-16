@@ -1,4 +1,4 @@
-Name: Wang-Jia-Min ;
+Name: Wang-Jia-Min;
 Country: Taiwan;
 Title: COVID-19 hurts;
 Year: 2020;
