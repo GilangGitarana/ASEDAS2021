@@ -297,7 +297,6 @@ Invitation_Malaysia_Dr. Rosmawati Binti Hamzah.txt
 Invitation_Malaysia_Dr. Sharulnizam Bin Ramli.txt
 Invitation_Malaysia_Dr. Suraya Hani Binti Zakaria.txt
 Invitation_Malaysia_Fairus Ahmad Yusof.txt
-Invitation_Malaysia_Farhana Nadirah Binti Munawer.txt
 Invitation_Malaysia_Farhana Nadirah.txt
 Invitation_Malaysia_Fazlina.txt
 Invitation_Malaysia_Junaidi Bin Awang.txt
@@ -305,8 +304,6 @@ Invitation_Malaysia_Kenny Kinjawan.txt
 Invitation_Malaysia_Mohd Nizam Radzaly.txt
 Invitation_Malaysia_Muhammad Asqalani Bin Hamizi.txt
 Invitation_Malaysia_Nor Arseha Binti Karimon.txt
-Invitation_Malaysia_Rozita Shamsuddin (1).txt
-Invitation_Malaysia_Rozita Shamsuddin (2).txt
 Invitation_Malaysia_Rozita Shamsuddin(2).txt
 Invitation_Malaysia_Rozita Shamsuddin.txt
 Invitation_Malaysia_Siti Aishah Binti Hassan.txt
