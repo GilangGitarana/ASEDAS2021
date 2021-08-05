@@ -1,24 +1,621 @@
 index.txt
+Public_Africa_Marwa El Wakeal (1).txt
+Public_Africa_Marwa El Wakeal (2).txt
+Public_Africa_Mouhamed Ndiaye.txt
+Public_America_Angie Hall.txt
+Public_America_Anna Palicka.txt
+Public_America_Daniel Segura Pel†ez.txt
+Public_America_Hugo Garcia.txt
+Public_America_Iara Teresinha Coelho Tonidandel.txt
+Public_America_Januar ValdÇs Barrios.txt
+Public_America_Jorge Gonz†lez Morales.txt
+Public_America_Kendra Oskola.txt
+Public_America_Luis Antonio Rivera Rodriguez.txt
+Public_America_Martha Elena Parra Alvarado.txt
+Public_America_Melissa Nieuwenhuis.txt
+Public_America_Rosalio Rodriguez Amador (1).txt
+Public_America_Rosalio Rodriguez Amador (2).txt
+Public_America_Tanya Antamba.txt
+Public_America_Vera Reichert.txt
+Public_America_"OcÇano" Rodolfo R°os Zertuche.txt
+Public_Asia_Adnan Hamedsoliani (1).txt
+Public_Asia_Adnan Hamedsoliani (2).txt
+Public_Asia_Benita Chakraborty (1).txt
+Public_Asia_Benita Chakraborty (2).txt
+Public_Asia_Chen Jie.txt
+Public_Asia_Dong Jin.txt
+Public_Asia_Erzil Morales.txt
+Public_Asia_Hojjat Mojarrad (1).txt
+Public_Asia_Hojjat Mojarrad (2).txt
+Public_Asia_Jie-Fei Yang.txt
+Public_Asia_Juan Elani Tulas.txt
+Public_Asia_Lee Hye Jun.txt
+Public_Asia_Raqee S. Najmuldeen.txt
+Public_Asia_Rashid Rahnama.txt
+Public_Asia_Rehnuma Tasnim Sheefa.txt
+Public_Asia_Shenwei Liu.txt
+Public_Asia_Smitha Bhandare Kamat (1).txt
+Public_Asia_Smitha Bhandare Kamat (2).txt
+Public_Asia_Smitha Bhandare Kamat (3).txt
+Public_Asia_Su Junjie (1).txt
+Public_Asia_Su Junjie (2).txt
+Public_Asia_Wei-Chih, Liu.txt
+Public_Asia_Xiaoleyang.txt
+Public_Asia_Zuo Biao Peng (1).txt
+Public_Asia_Zuo Biao Peng (2).txt
+Public_Asia_Zuo Biao Peng (3).txt
+Public_Europe_Agnieszka Dajczak.txt
+Public_Europe_Agnieszka Weglarska.txt
+Public_Europe_Ahunur BÅyÅk?akilci.txt
+Public_Europe_Ali Ihsan Lule.txt
+Public_Europe_Alicja Wieczorek.txt
+Public_Europe_Anne Evjen Dahl.txt
+Public_Europe_Arif E. Baykurt (Aka Mrwolf).txt
+Public_Europe_Aylin GÅngîr (1).txt
+Public_Europe_Aylin GÅngîr (2).txt
+Public_Europe_Aylin Kasa.txt
+Public_Europe_Beata Tomczyk-Sokolowska.txt
+Public_Europe_Boboc Mihai Gabriel.txt
+Public_Europe_Bulent Oktay (1).txt
+Public_Europe_Bulent Oktay (2).txt
+Public_Europe_Bulent Oktay (3).txt
+Public_Europe_Bulent Oktay (4).txt
+Public_Europe_Burak Erim.txt
+Public_Europe_Damian Klaczkiewicz.txt
+Public_Europe_Dmytro Dziuba.txt
+Public_Europe_Dodogsoeseno (1).txt
+Public_Europe_Dodogsoeseno (2).txt
+Public_Europe_Ejup Deari.txt
+Public_Europe_Gokhan Danacioglu.txt
+Public_Europe_Grabia Marcin.txt
+Public_Europe_Igor Goryunov.txt
+Public_Europe_Iwa Kruczkowska.txt
+Public_Europe_Izabela Kowalska-Wieczorek (1).txt
+Public_Europe_Izabela Kowalska-Wieczorek (2).txt
+Public_Europe_Izabela Kowalska-Wieczorek (3).txt
+Public_Europe_Jurij Novoselov.txt
+Public_Europe_Klaczkiewicz Damian.txt
+Public_Europe_Leyla Vazehi.txt
+Public_Europe_Marianne Larsen Waaler.txt
+Public_Europe_Melike Bakar Findikci.txt
+Public_Europe_Meunier Dominique.txt
+Public_Europe_Michal Stachacz (1).txt
+Public_Europe_Michal Stachacz (2).txt
+Public_Europe_Michal Stachacz (3).txt
+Public_Europe_Michal Stachacz (4).txt
+Public_Europe_Onur Toprak.txt
+Public_Europe_Paco Kamil [Paco and Francisco] (1).txt
+Public_Europe_Paco Kamil [Paco and Francisco] (2).txt
+Public_Europe_Paco Kamil [Paco and Francisco] (3).txt
+Public_Europe_Patrycja Longawa.txt
+Public_Europe_Zbigniew Latala (1).txt
+Public_Europe_Zbigniew Latala (2).txt
 Public_Indonesia_Abagas Tri Saputra (1).txt
+Public_Indonesia_Abagas Tri Saputra (2).txt
+Public_Indonesia_Abun Adira.txt
 Public_Indonesia_Achmad Afandy.txt
+Public_Indonesia_Adinda Puspa Kirana.txt
+Public_Indonesia_Aditya Aditama Putri Hk.txt
 Public_Indonesia_Adzan Bintang Aslama.txt
+Public_Indonesia_Agung Eko Yulianto.txt
+Public_Indonesia_Agung Suroso.txt
+Public_Indonesia_Agus Adhityatama (1).txt
+Public_Indonesia_Agus Adhityatama (2).txt
 Public_Indonesia_Agustin Panca Wardany.txt
 Public_Indonesia_Ahmad Rofiul Azmi.txt
 Public_Indonesia_Ajeng Nur Baetty.txt
+Public_Indonesia_Almira Belinda Zainsjah.txt
+Public_Indonesia_Alya Nur Fadilla.txt
+Public_Indonesia_Andro Geotan Immanuel Hutabarat.txt
 Public_Indonesia_Annisa Hasna Kartina.txt
+Public_Indonesia_Arie Arfandi Andjar.txt
 Public_Indonesia_Aris Sutejo.txt
+Public_Indonesia_Astrid Austranti Yuwono.txt
 Public_Indonesia_Athifa Hasna Ismayanti.txt
+Public_Indonesia_Aulia Wara Arimbi Putri.txt
 Public_Indonesia_Austin Levi.txt
 Public_Indonesia_Bagus Novianto.txt
+Public_Indonesia_Bambang Hariyanto.txt
+Public_Indonesia_Bani Hidayat.txt
+Public_Indonesia_Bayu Prakoso Dirgantoro.txt
+Public_Indonesia_Belinda Sukapura Dewi.txt
 Public_Indonesia_Benayahu Ben Boanerges.txt
+Public_Indonesia_Bening Tri Suwasono.txt
 Public_Indonesia_Berti Alia Bahaduri S.Kr., M.Ds..txt
 Public_Indonesia_Betha Almanfaluthi.txt
 Public_Indonesia_Brigitta Giovanni Trixiandra Xaviera.txt
+Public_Indonesia_Budi Kurniawan.txt
+Public_Indonesia_Calvin Tio.txt
+Public_Indonesia_Camarray Taraka Prattiwa.txt
 Public_Indonesia_Christine Claudia Lukman.txt
+Public_Indonesia_Christvetri Serafelia.txt
+Public_Indonesia_Citra Ayu Puspita.txt
+Public_Indonesia_Citra Kemala Putri.txt
+Public_Indonesia_Claudio Christopher August (1).txt
+Public_Indonesia_Claudio Christopher August (2).txt
+Public_Indonesia_Daffa Dzakwan Naufal.txt
+Public_Indonesia_Daniel Kristian Sutjiady.txt
 Public_Indonesia_Darasyifa Andini Erlingga.txt
 Public_Indonesia_Dea Yunzilul Laila.txt
 Public_Indonesia_Debora Eka Velly.txt
+Public_Indonesia_Deborah Ram Mozes (1).txt
+Public_Indonesia_Deborah Ram Mozes (2).txt
+Public_Indonesia_Deden Maulana A.txt
 Public_Indonesia_Deni Andrianto.txt
+Public_Indonesia_Desi Safitri.txt
+Public_Indonesia_Dewi Isma Aryani.txt
+Public_Indonesia_Dhaneswara Hardjowisastro.txt
+Public_Indonesia_Dhea Ananda Kartini (1).txt
+Public_Indonesia_Dhea Ananda Kartini (2).txt
+Public_Indonesia_Diana Ganda Leksanawati.txt
+Public_Indonesia_Dila Kana.txt
+Public_Indonesia_Dimas Prima Suryana Putra.txt
+Public_Indonesia_Diva Andrianti (1).txt
+Public_Indonesia_Diva Andrianti (2).txt
+Public_Indonesia_Dodog Soeseno (1).txt
+Public_Indonesia_Dodog Soeseno (2).txt
+Public_Indonesia_Dodog Soeseno (3).txt
+Public_Indonesia_Dona Prawita Arissuta.txt
+Public_Indonesia_Dr. Anung Rachman.txt
+Public_Indonesia_Dr. Christine Claudia Lukman, Dra., M.Ds. (1).txt
+Public_Indonesia_Dr. Christine Claudia Lukman, Dra., M.Ds. (2).txt
+Public_Indonesia_Dr. Iwan Zahar.txt
+Public_Indonesia_Drs. Heddy Heryadi, Ma. (1).txt
+Public_Indonesia_Drs. Heddy Heryadi, Ma. (2).txt
+Public_Indonesia_Drs. Heddy Heryadi, Ma. (3).txt
+Public_Indonesia_Drs. I Made Bendi Yudha, M.Sn..txt
+Public_Indonesia_Dwini Nurul Arofah (1).txt
+Public_Indonesia_Dwini Nurul Arofah (2).txt
+Public_Indonesia_Dyah Paramita Candravardani (1).txt
+Public_Indonesia_Dyah Paramita Candravardani (2).txt
+Public_Indonesia_Dyah Paramita Candravardani (3).txt
+Public_Indonesia_Dzulya Istiqomah (1).txt
+Public_Indonesia_Dzulya Istiqomah (2).txt
+Public_Indonesia_Edo Halim R.txt
+Public_Indonesia_Eep Saepul Hidayat (1).txt
+Public_Indonesia_Eep Saepul Hidayat (2).txt
+Public_Indonesia_Egapie Sifara Primadisty (1).txt
+Public_Indonesia_Egapie Sifara Primadisty (2).txt
+Public_Indonesia_Egapie Sifara Primadisty (3).txt
+Public_Indonesia_Egie Yuan (1).txt
+Public_Indonesia_Egie Yuan (2).txt
+Public_Indonesia_Egie Yuan (3).txt
+Public_Indonesia_Eka Wahyu Widyawati (1).txt
+Public_Indonesia_Eka Wahyu Widyawati (2).txt
+Public_Indonesia_Eka Wahyu Widyawati (3).txt
+Public_Indonesia_Elizabeth Susanti.txt
+Public_Indonesia_Elliati Djakaria.txt
+Public_Indonesia_Elsa Saputri (1).txt
+Public_Indonesia_Elsa Saputri (2).txt
+Public_Indonesia_Elvina Fitriani Azizah.txt
+Public_Indonesia_Emilia Kurniawati Ashary.txt
+Public_Indonesia_Emmanuel Putro Prakoso.txt
+Public_Indonesia_Engalydva Ralasepty Syopyan.txt
+Public_Indonesia_Erfano Faradika.txt
+Public_Indonesia_Eric Gunawan.txt
+Public_Indonesia_Erica Rachel Budianto.txt
+Public_Indonesia_Erick Ricardo.txt
+Public_Indonesia_Erika Ernawan.txt
+Public_Indonesia_Eris Lungguh Sumantri.txt
+Public_Indonesia_Erwin Ardianto Halim, Astrid Austranti Yuwono, Elizabeth, Sriwinarsih Maria Kirana, Trifandy, Fredrik Lay, Tania Jan Putri.txt
+Public_Indonesia_Erwin Ardianto Halim.txt
+Public_Indonesia_Ester Abihail.txt
+Public_Indonesia_Esti Ebhi Evolisa.txt
+Public_Indonesia_Ethan Zahrul Ramadhan.txt
+Public_Indonesia_Eva Afifa.txt
+Public_Indonesia_Eva Riris Simanjuntak (1).txt
+Public_Indonesia_Eva Riris Simanjuntak (2).txt
+Public_Indonesia_Eveline Meimei.txt
+Public_Indonesia_Fadhilah Nuzul Aini.txt
+Public_Indonesia_Fadli Suandi.txt
+Public_Indonesia_Fahri Ali Azhar.txt
+Public_Indonesia_Faizah Wirawan.txt
+Public_Indonesia_Fajar Rahmat Subhi (1).txt
+Public_Indonesia_Fajar Rahmat Subhi (2).txt
+Public_Indonesia_Falahy Mohamad.txt
+Public_Indonesia_Fandi Teguh Prasetyo.txt
+Public_Indonesia_Fardan Barkah Albari (1).txt
+Public_Indonesia_Fardan Barkah Albari (2).txt
+Public_Indonesia_Farhan Deniansah.txt
+Public_Indonesia_Farhan Fathurrohman Fauzi (1).txt
+Public_Indonesia_Farhan Fathurrohman Fauzi (2).txt
+Public_Indonesia_Farhan Fathurrohman Fauzi (3).txt
+Public_Indonesia_Farhan Haq Taufikkurahman.txt
+Public_Indonesia_Farida Wahyu (1).txt
+Public_Indonesia_Farida Wahyu (2).txt
+Public_Indonesia_Farida Wahyu (3).txt
+Public_Indonesia_Farida Wahyu (4).txt
+Public_Indonesia_Fatih Jagad Raya (1).txt
+Public_Indonesia_Fatih Jagad Raya (2).txt
+Public_Indonesia_Fatih Jagad Raya (3).txt
+Public_Indonesia_Fatih Jagad Raya (4).txt
+Public_Indonesia_Fauzan Nurhammam.txt
+Public_Indonesia_Fauzan Wahyudin (1).txt
+Public_Indonesia_Fauzan Wahyudin (2).txt
+Public_Indonesia_Fauziyah Adillah Fitri.txt
+Public_Indonesia_Febby Amalia Hendrayana Putri.txt
+Public_Indonesia_Febry Maharlika.txt
+Public_Indonesia_Febyana Chitta.txt
+Public_Indonesia_Felia Arlitha Agnia (1).txt
+Public_Indonesia_Felia Arlitha Agnia (2).txt
+Public_Indonesia_Femelianti & Astrid Austranti Yuwono.txt
+Public_Indonesia_Fenny Rochbeind.txt
+Public_Indonesia_Ferdinan, S.Sn..txt
+Public_Indonesia_Ferdricko Duvadillon Kurniadi.txt
+Public_Indonesia_Feriendas (1).txt
+Public_Indonesia_Feriendas (2).txt
+Public_Indonesia_Ferri Firmansyah.txt
+Public_Indonesia_Feyrin Milia Tantono.txt
+Public_Indonesia_Finna Amelinda.txt
+Public_Indonesia_Firyaal Witri.txt
+Public_Indonesia_Fitri Aridanti Alamsjah.txt
+Public_Indonesia_Fitri Oktariana (1).txt
+Public_Indonesia_Fitri Oktariana (2).txt
+Public_Indonesia_Fitri Oktariana (3).txt
+Public_Indonesia_Florenza Octarina.txt
+Public_Indonesia_Fransisca.txt
+Public_Indonesia_Frederick Austin Millicent.txt
+Public_Indonesia_Frensa Kurniawan.txt
+Public_Indonesia_Fuad Safrudin , S.Pd.I (1).txt
+Public_Indonesia_Fuad Safrudin , S.Pd.I (2).txt
+Public_Indonesia_Fuad Safrudin , S.Pd.I (3).txt
+Public_Indonesia_Gabriela Jovanka Susanto.txt
+Public_Indonesia_Gerald Jordan.txt
+Public_Indonesia_Geraldo Hadiwardojo.txt
+Public_Indonesia_Gerry Hansen Wirawan.txt
+Public_Indonesia_Ghifaldy Yusuf Febrian.txt
+Public_Indonesia_Gibran Jaya Putra.txt
+Public_Indonesia_Gilang Bayu Rizkika.txt
+Public_Indonesia_Gilang Cempaka.txt
+Public_Indonesia_Gilang Pratama Putra.txt
+Public_Indonesia_Grace Carolline Sahertian.txt
+Public_Indonesia_Graciela Jovanka Susanto.txt
+Public_Indonesia_Graciela Pratama.txt
+Public_Indonesia_Graciela Syandita Carla Vicentia.txt
+Public_Indonesia_Grifine Octaviane.txt
+Public_Indonesia_Gusti Akbar Maulana.txt
+Public_Indonesia_Gusti Ngurah Ari Divayana.txt
+Public_Indonesia_Habib Perdana Dayusaputra.txt
+Public_Indonesia_Hadid Maslahat.txt
+Public_Indonesia_Hafizh Aulia Hanani.txt
+Public_Indonesia_Hajriansyah.txt
+Public_Indonesia_Halefi Syifa Ramadhani.txt
+Public_Indonesia_Halim.txt
+Public_Indonesia_Hamdani (1).txt
+Public_Indonesia_Hamdani (2).txt
+Public_Indonesia_Hamdani (3).txt
+Public_Indonesia_Hanan Syafial Rozan.txt
+Public_Indonesia_Handriyotopo.txt
+Public_Indonesia_Happy Yugo Prasetiya.txt
+Public_Indonesia_Harry Sulastianto.txt
+Public_Indonesia_Hasnan Abdul Hakim _ Cecep Yandi.txt
+Public_Indonesia_Hendra Setiawan.txt
+Public_Indonesia_Henry Winata.txt
+Public_Indonesia_Hermansyah Muttaqin.txt
+Public_Indonesia_Hertanti Nova Oktaviani.txt
+Public_Indonesia_Hery Santosa.txt
+Public_Indonesia_Hikari Sae Husada (1).txt
+Public_Indonesia_Hikari Sae Husada (2).txt
+Public_Indonesia_Hilman Syafriadi. M.Sn.txt
+Public_Indonesia_Ho Sen Chen.txt
+Public_Indonesia_I Wayan Sudana.txt
+Public_Indonesia_Ibnu Aji Wicaksono.txt
+Public_Indonesia_Ida Andayani (1).txt
+Public_Indonesia_Ida Andayani (2).txt
+Public_Indonesia_Ida Farida.txt
+Public_Indonesia_Ie Lie Yoeng.txt
+Public_Indonesia_Ign. Tri Marutama.txt
+Public_Indonesia_Ignatius Agus Sudaryanto ( Igas. S. ).txt
+Public_Indonesia_Iip Ipan.txt
+Public_Indonesia_Ika Ismurdiyahwati.txt
+Public_Indonesia_Ikadek Sarasmika.txt
+Public_Indonesia_Ilham Abdurahman.txt
+Public_Indonesia_Ilham Ronal Rustaman.txt
+Public_Indonesia_Indraswari Aulia Djohana.txt
+Public_Indonesia_Indri Anggraeni.txt
+Public_Indonesia_Intan Natalia.txt
+Public_Indonesia_Ira Adriati.txt
+Public_Indonesia_Irena Vanessa Gunawan St., Mcom.txt
+Public_Indonesia_Iskandar Abeng.txt
+Public_Indonesia_Ismiawati.txt
+Public_Indonesia_Ivory Charlesa.txt
+Public_Indonesia_Izzan Abdi Al Haqqin Labay.txt
+Public_Indonesia_J Kiara Z Santosa.txt
+Public_Indonesia_Jazuli A Munib.txt
+Public_Indonesia_Jeconia Ivander Ruslie.txt
+Public_Indonesia_Jenar Sukaningsih.txt
+Public_Indonesia_Jessica Amanda.txt
+Public_Indonesia_Jessica Elisabeth Scholus.txt
+Public_Indonesia_Jessica Joya Ribka.txt
+Public_Indonesia_Jessica Yonatia.txt
+Public_Indonesia_Jihan Kausad.txt
+Public_Indonesia_Jovankha Cornelia Effendi.txt
+Public_Indonesia_Jovita Janice Liumardi.txt
+Public_Indonesia_Joyceline Jerry.txt
+Public_Indonesia_Julietta Siti Refqa Herliansyah.txt
+Public_Indonesia_Junaidi Wirawan.txt
+Public_Indonesia_Kahfi Kusnandi.txt
+Public_Indonesia_Kania Ratriningtyas.txt
+Public_Indonesia_Karina Budiati Yuwono.txt
+Public_Indonesia_Karna Mustaqim (1).txt
+Public_Indonesia_Karna Mustaqim (2).txt
+Public_Indonesia_Kemal Fasya.txt
+Public_Indonesia_Ken Natasha Violeta.txt
+Public_Indonesia_Kenny Louis Ng.txt
+Public_Indonesia_Kenny Towiro.txt
+Public_Indonesia_Ketut Gura Arta Laras.txt
+Public_Indonesia_Kharisma Nusa Nagara.txt
+Public_Indonesia_Koko Sondaka.txt
+Public_Indonesia_Komang Wahyu Sukayasa.txt
+Public_Indonesia_Kristina Iman Yana Kristi Zai.txt
+Public_Indonesia_Kuntadi Wasi Darmojo.txt
+Public_Indonesia_Kurniansyah.txt
+Public_Indonesia_Lailatul Maulidhiah.txt
+Public_Indonesia_Lateevhaq.txt
+Public_Indonesia_Lea Clarisa Dwi Kristanti.txt
+Public_Indonesia_Leonardo Ari Dwi Kusnanda.txt
+Public_Indonesia_Leonardo Lim (1).txt
+Public_Indonesia_Leonardo Lim (2).txt
+Public_Indonesia_Leonita Andrea Putri.txt
+Public_Indonesia_Lesh Dewika.txt
+Public_Indonesia_Liana Fallah.txt
+Public_Indonesia_Lingga Anggaini.txt
+Public_Indonesia_Lucas Crisdi.txt
+Public_Indonesia_Luri Renaningtyas.txt
+Public_Indonesia_Lutfi Yanuar Sartono.txt
+Public_Indonesia_Lydia Sri Rosdiana.txt
+Public_Indonesia_M. Althof Fahrezi Permata S.txt
+Public_Indonesia_M. Faris Shiddiq.txt
+Public_Indonesia_M. Fikri Ardiansyah.txt
+Public_Indonesia_M. Rizky Kalap.txt
+Public_Indonesia_Makmun.txt
+Public_Indonesia_Maria L.B Animus.txt
+Public_Indonesia_Markus Jiuhanteng.txt
+Public_Indonesia_Marthdilla Setyarani Prahmadisti.txt
+Public_Indonesia_Maryam Saleng.txt
+Public_Indonesia_Maui Chiver.txt
+Public_Indonesia_Maulia Oktafiana.txt
+Public_Indonesia_Maya Purnama.txt
+Public_Indonesia_Melfa Julianti Hutagalung.txt
+Public_Indonesia_Melsha Haq Zulfikar.txt
+Public_Indonesia_Michael Alvaric Kasim.txt
+Public_Indonesia_Miky Endro Santoso (1).txt
+Public_Indonesia_Miky Endro Santoso (2).txt
+Public_Indonesia_Mira Nursolehat (1).txt
+Public_Indonesia_Mira Nursolehat (2).txt
+Public_Indonesia_Mita Purbasari.txt
+Public_Indonesia_Moch Reza Kurniawan.txt
+Public_Indonesia_Moelyono Rahardjo M.Sn.txt
+Public_Indonesia_Mohammad Ilman Nurdin.txt
+Public_Indonesia_Mohammad Izzan Nurdin.txt
+Public_Indonesia_Mohammad Nurman.txt
+Public_Indonesia_Monica Hartanti.txt
+Public_Indonesia_Monica.txt
+Public_Indonesia_Monika Feliciana Suharli.txt
+Public_Indonesia_Muammar Haikal Gibran.txt
+Public_Indonesia_Muh Zaenudin.txt
+Public_Indonesia_Muhamad Ali Rahim.txt
+Public_Indonesia_Muhamad Badrul Amin.txt
+Public_Indonesia_Muhamad Nur Fadli (1).txt
+Public_Indonesia_Muhamad Nur Fadli (2).txt
+Public_Indonesia_Muhamad Nurbayan.txt
+Public_Indonesia_Muhamad Rizal Zulfikar.txt
+Public_Indonesia_Muhammad Abdillah Rani.txt
+Public_Indonesia_Muhammad Asaduddin Alfayyadh.txt
+Public_Indonesia_Muhammad Azhar Abulkhoir.txt
+Public_Indonesia_Muhammad Barran El Sadam.txt
+Public_Indonesia_Muhammad Choirul Anam.txt
+Public_Indonesia_Muhammad Erin Nurfauzi.txt
+Public_Indonesia_Muhammad Farhan Nasrulloh.txt
+Public_Indonesia_Muhammad Furqaan Nashrullah.txt
+Public_Indonesia_Muhammad Mughni Nur Fayyadh(01).txt
+Public_Indonesia_Muhammad Mughni Nur Fayyadh(02).txt
+Public_Indonesia_Muhammad Nadzir Azhar.txt
+Public_Indonesia_Muhammad Rafii Fediansyah R.txt
+Public_Indonesia_Muliati Martalena (1).txt
+Public_Indonesia_Muliati Martalena (2).txt
+Public_Indonesia_Munadi.txt
+Public_Indonesia_Munir.txt
+Public_Indonesia_Nabil Muhammad Naufal.txt
+Public_Indonesia_Nabila Anasya.txt
+Public_Indonesia_Nabilla Putri Sulaiman (1).txt
+Public_Indonesia_Nabilla Putri Sulaiman (2).txt
+Public_Indonesia_Nada Rajni Zahirah.txt
+Public_Indonesia_Nadia Mahatmi.txt
+Public_Indonesia_Nadia Sigi Prameswari, S.Sn., M.Sn.txt
+Public_Indonesia_Nadya (1).txt
+Public_Indonesia_Nadya (2).txt
+Public_Indonesia_Nafisah Hasya Nadana.txt
+Public_Indonesia_Nandang Gumelar Wahyudi.txt
+Public_Indonesia_Naomi Sarita.txt
+Public_Indonesia_Naufal Lathif (1).txt
+Public_Indonesia_Naufal Lathif (2).txt
+Public_Indonesia_Naufal Nabila Faza.txt
+Public_Indonesia_Navyll Rizqrabani (1).txt
+Public_Indonesia_Navyll Rizqrabani (2).txt
+Public_Indonesia_Neva Ladiesta Fardhana.txt
+Public_Indonesia_Nia Kurniasih.txt
+Public_Indonesia_Noor Udin Ung.txt
+Public_Indonesia_Nuha Cikal Azizah.txt
+Public_Indonesia_Nur Tsamarah Arfina.txt
+Public_Indonesia_Nuraini Suryani.txt
+Public_Indonesia_Nurdiansyah.txt
+Public_Indonesia_Nurokhman.txt
+Public_Indonesia_Nyimas Yori Kensofiera Livya Yose.txt
+Public_Indonesia_Octavianus Frans (1).txt
+Public_Indonesia_Octavianus Frans (2).txt
+Public_Indonesia_Oky Tisna.txt
+Public_Indonesia_Pandu Aditya Nugraha.txt
+Public_Indonesia_Paramita.txt
+Public_Indonesia_Paskasius Kalis Legi.txt
+Public_Indonesia_Prabhangkara Adhi Prayoga.txt
+Public_Indonesia_Priska Saviourien Adimercya.txt
+Public_Indonesia_Prof. Dr. Pande Made Sukerta, M.Si.txt
+Public_Indonesia_Puji Rahayu, S.Sn.txt
+Public_Indonesia_Putri Nurchandra Sari Pramuji.txt
+Public_Indonesia_Putri Resky Utami.txt
+Public_Indonesia_Putri Wardatul Fu'Adah.txt
+Public_Indonesia_Rachman Nugraha.txt
+Public_Indonesia_Rafianda Okta Rasya.txt
+Public_Indonesia_Rafifah Rahma Nadinda.txt
+Public_Indonesia_Rahmah Siti Nurfallah.txt
+Public_Indonesia_Rahmah Tasya Ad'Nisa.txt
+Public_Indonesia_Raihan Putri.txt
+Public_Indonesia_Ramadita Fetrianggi.txt
+Public_Indonesia_Regina Clara.txt
+Public_Indonesia_Regina Fitri Oktavia.txt
+Public_Indonesia_Reksi Muhammad Sidik.txt
+Public_Indonesia_Renata Kusuma.txt
+Public_Indonesia_Rendra Santana.txt
+Public_Indonesia_Rene Arthur Palit.txt
+Public_Indonesia_Reni Tri Wahyuni.txt
+Public_Indonesia_Retno Purwanti Murdaningsih.txt
+Public_Indonesia_Rhomina Hestiningtyas.txt
+Public_Indonesia_Richard Vladimir.txt
+Public_Indonesia_Ridho Ardian Putra.txt
+Public_Indonesia_Ridwan Dwiki Nugroho.txt
+Public_Indonesia_Rieka Sh. W.txt
+Public_Indonesia_Rifda Falsa Salsabila.txt
+Public_Indonesia_Riki Ramadhan.txt
+Public_Indonesia_Rina Mariana.txt
+Public_Indonesia_Rini Maulina.txt
+Public_Indonesia_Rinto Kucing.txt
+Public_Indonesia_Risa Salsabila.txt
+Public_Indonesia_Risma Febyanti (1).txt
+Public_Indonesia_Risma Febyanti (2).txt
+Public_Indonesia_Risma Febyanti (3).txt
+Public_Indonesia_Rismayanti (1).txt
+Public_Indonesia_Rismayanti (2).txt
+Public_Indonesia_Rizki Auliazmi.txt
+Public_Indonesia_Rizki Priutama.txt
+Public_Indonesia_Rizky Ananda.txt
+Public_Indonesia_Rizqi Al-Fath Khan.txt
+Public_Indonesia_Roman Aqviriyoso.txt
+Public_Indonesia_Ronald Yulianto,St.txt
+Public_Indonesia_Rudiansyah.txt
+Public_Indonesia_Rujiyanto.txt
+Public_Indonesia_Ryo Prajna Muliadi.txt
+Public_Indonesia_Sabrina Az-Zahrah.txt
+Public_Indonesia_Sabrina Firdianingrum.txt
+Public_Indonesia_Sahla Analia Zain.txt
+Public_Indonesia_Sahny Adib Kadafi.txt
+Public_Indonesia_Said Akram.txt
+Public_Indonesia_Salma Fathiya Asrofa.txt
+Public_Indonesia_Salmatus Sauda.txt
+Public_Indonesia_Samsul Ridwan.txt
+Public_Indonesia_Sandi Nurdiansah (1).txt
+Public_Indonesia_Sandi Nurdiansah (2).txt
+Public_Indonesia_Sang Made Desire Suwamba.txt
+Public_Indonesia_Satria Wijaya.txt
+Public_Indonesia_Satriana Didiek Isnanta.txt
+Public_Indonesia_Segaf Saputra.txt
+Public_Indonesia_Seriwati Ginting, Miki Tjandra, Monika Feliciana Suharli.txt
+Public_Indonesia_Setiyono Wibowo (1).txt
+Public_Indonesia_Setiyono Wibowo (2).txt
+Public_Indonesia_Setyo Basuki Rahmadi.txt
+Public_Indonesia_Sevinevita Kausalya Atjil (1).txt
+Public_Indonesia_Sevinevita Kausalya Atjil (2).txt
+Public_Indonesia_Shanty Widi Yanti.txt
+Public_Indonesia_Sigied Himawan Yudhanto.txt
+Public_Indonesia_Silmi Fitriani.txt
+Public_Indonesia_Silviana Tahalea.txt
+Public_Indonesia_Sinta Nurleta.txt
+Public_Indonesia_Sintia Paramita Gotama.txt
+Public_Indonesia_Sipin Lim (1).txt
+Public_Indonesia_Sipin Lim (2).txt
+Public_Indonesia_Sipin Lim (3).txt
+Public_Indonesia_Siti Hilmah Mutiara.txt
+Public_Indonesia_Siti Rainy Kurniasari.txt
+Public_Indonesia_Sri Rahayu Saptawati.txt
+Public_Indonesia_Sri Riang Restini Gulo.txt
+Public_Indonesia_Sri Supriyatini.txt
+Public_Indonesia_Sry Retnayu.txt
+Public_Indonesia_Stenli Stivenly Mokoginta.txt
+Public_Indonesia_Stephanie Nathania.txt
+Public_Indonesia_Sujarwo.txt
+Public_Indonesia_Suprayitno Sutoyo.txt
+Public_Indonesia_Syahrina Husna.txt
+Public_Indonesia_Syarifah Nur'Aini.txt
+Public_Indonesia_Syifa Fauziah Mansur.txt
+Public_Indonesia_Syifa Hadiarti Aulia (1).txt
+Public_Indonesia_Syifa Hadiarti Aulia (2).txt
+Public_Indonesia_Syifa Hanifa Wardani.txt
+Public_Indonesia_Syifa Shobariyah.txt
+Public_Indonesia_Talitha Amara.txt
+Public_Indonesia_Tantan Nugraha.txt
+Public_Indonesia_Taopik Hidayat.txt
+Public_Indonesia_Tassa Sofiyah.txt
+Public_Indonesia_Tasya Prisila Dilita.txt
+Public_Indonesia_Tatang.txt
+Public_Indonesia_Taufik Murtono & Bibit Waluyo.txt
+Public_Indonesia_Taufik Murtono.txt
+Public_Indonesia_Tazkia Audrey Adyssa.txt
+Public_Indonesia_Teguh Indriana Pangestu.txt
+Public_Indonesia_Tetty Mirwa.txt
+Public_Indonesia_Thomas Tri Wibowo.txt
+Public_Indonesia_Thoriq Fadilah Muhammad.txt
+Public_Indonesia_Tiara Ghina Nurdhiawan.txt
+Public_Indonesia_Tiara Isfiaty (1).txt
+Public_Indonesia_Tiara Isfiaty (2).txt
+Public_Indonesia_Tiara Regina Putri I.txt
+Public_Indonesia_Tiara Shaqila.txt
+Public_Indonesia_Tommi Siswono.txt
+Public_Indonesia_Toni Dwi Guntoro (Antoni).txt
+Public_Indonesia_Toyibah Kusumawati.txt
+Public_Indonesia_Tri Aru Wiratno.txt
+Public_Indonesia_Trisje Milenia.txt
+Public_Indonesia_Troy Herman P.txt
+Public_Indonesia_Umar Pranata Ismail.txt
+Public_Indonesia_Valentino Adriel S.txt
+Public_Indonesia_Vaneza Gabriella.txt
+Public_Indonesia_Vania Haliman.txt
+Public_Indonesia_Vania Trixie Septiana.txt
+Public_Indonesia_Vera Jenny Basiroen.txt
+Public_Indonesia_Vera Waradya.txt
+Public_Indonesia_Verdyanza Budiyanto.txt
+Public_Indonesia_Veren Doy Santoso.txt
+Public_Indonesia_Veronica Permata Gunawan.txt
+Public_Indonesia_Vicky Ahmad Kautsar Azzaki.txt
+Public_Indonesia_Vincent Harvery.txt
+Public_Indonesia_Vincentius Kevin Alexander Alviano.txt
+Public_Indonesia_Vines.txt
+Public_Indonesia_Viona Nathania Hendradi.txt
+Public_Indonesia_Virlyana Azzalia Putri.txt
+Public_Indonesia_Wafi Fadhlurrahman Saputra (1).txt
+Public_Indonesia_Wafi Fadhlurrahman Saputra (2).txt
+Public_Indonesia_Warli Haryana, S.Pd., M.Pd..txt
+Public_Indonesia_Wawan Suryana.txt
+Public_Indonesia_Wegig Murwonugroho, Virginia Suryani, Menul Teguh Riyanti, Wawan Kurniawan, Mustamina Maulani.txt
+Public_Indonesia_Widiya Lestari Harahap.txt
+Public_Indonesia_Widy Dwi Ajimahendra.txt
+Public_Indonesia_Widya Milenia.txt
+Public_Indonesia_Wildan Febry Akbar.txt
+Public_Indonesia_Wilham Ramadan.txt
+Public_Indonesia_Willy Surya Wardhana.txt
+Public_Indonesia_Wilson Thiodorus.txt
+Public_Indonesia_Wineu Siti Rachamawati.txt
+Public_Indonesia_Winona Belda.txt
+Public_Indonesia_Wirantoni.txt
+Public_Indonesia_Wisma Triana.txt
+Public_Indonesia_Yasmin Dwi Anandita.txt
+Public_Indonesia_Yasmine Nadhira Syadza.txt
+Public_Indonesia_Yerie Yulanda.txt
+Public_Indonesia_Yoce Wiriadi.txt
+Public_Indonesia_Yohan Naftali.txt
+Public_Indonesia_Yohanes Soubirius De Santo.txt
+Public_Indonesia_Yoris Tenza.txt
+Public_Indonesia_Yosepin Sri Ningsih.txt
+Public_Indonesia_Yoyo Hartanto.txt
+Public_Indonesia_Yudi Ilham Nudin.txt
+Public_Indonesia_Yudita Royandi, S.T., S.Ds., M.Ds..txt
+Public_Indonesia_Yulia Tamarinawati (1).txt
+Public_Indonesia_Yulia Tamarinawati (2).txt
+Public_Indonesia_Yulia Tamarinawati (3).txt
+Public_Indonesia_Yulianti Mayank Sari.txt
+Public_Indonesia_Yulianti Siti Jamilah.txt
+Public_Indonesia_Yuma Chandrahera, S.Sn., M.Ds.txt
+Public_Indonesia_Yunita Setyoningrum.txt
+Public_Indonesia_Zalfa Zahira Johan.txt
 Public_Malaysia_Adam Syamil Bin Azman.txt
 Public_Malaysia_Aliaa Zahirah Binti Ahmad Hizam.txt
 Public_Malaysia_Amir Siddiq Bin Kamarul Aripin.txt
@@ -27,5 +624,68 @@ Public_Malaysia_Aqmal Mokhtar.txt
 Public_Malaysia_Arissa Raihanah Binti Abdul Razak.txt
 Public_Malaysia_Arman Qusairy Bin Abdul Razak.txt
 Public_Malaysia_Brinoelson Bin Kurinalis.txt
+Public_Malaysia_Dr Suraya Hani Binti Zakaria.txt
+Public_Malaysia_Dr. Sharulnizam Bin Ramli.txt
 Public_Malaysia_Emilia Abdull Manan.txt
 Public_Malaysia_Fakhrul Zaman Bin Mohamad Sambas.txt
+Public_Malaysia_Farzana Husna Binti Hafizz.txt
+Public_Malaysia_Fatimatul Athilah Binti Muhd Khairuddin.txt
+Public_Malaysia_Hakim Afify Bin Nasaruddin.txt
+Public_Malaysia_Halijah Binti Abu Aris.txt
+Public_Malaysia_Jamilah Binti Hussain.txt
+Public_Malaysia_Junaidi Bin Awang.txt
+Public_Malaysia_Kenny Kinjawan.txt
+Public_Malaysia_Khairunnisa Binti Mat Daud.txt
+Public_Malaysia_Liu Jia Yee.txt
+Public_Malaysia_Luqzaidismail.txt
+Public_Malaysia_Mohammad Khizal Bin Mohamed Saat.txt
+Public_Malaysia_Mohd Azizi Bin Husain.txt
+Public_Malaysia_Muhamad Afif Zikry Bin Mohd Daly.txt
+Public_Malaysia_Muhammad Amirul Bin Aazmi.txt
+Public_Malaysia_Muhammad Anwaruddin Bin Mohd Arifin.txt
+Public_Malaysia_Muhammad Asqalani Bin Hamizi.txt
+Public_Malaysia_Muhammad Syafiq Bin Rahim.txt
+Public_Malaysia_Muhd Ruhaizat Bin Rusli.txt
+Public_Malaysia_Nabilah Binti Mohd Rodzi.txt
+Public_Malaysia_Neesa Ameera Mohamed Salim.txt
+Public_Malaysia_Noor Azreen Binti Ibrahim.txt
+Public_Malaysia_Noor Idayu Binti Bujang.txt
+Public_Malaysia_Nor Samiha Binti Yusoff (2).txt
+Public_Malaysia_Nor Samiha Binti Yusoff (3).txt
+Public_Malaysia_Nor Samiha Binti Yusoff.txt
+Public_Malaysia_Noriza Arzain.txt
+Public_Malaysia_Normurni Binti Mohamad.txt
+Public_Malaysia_Norzahirah Binti Zainuddin.txt
+Public_Malaysia_Nur Ainun Adila Bt Mohd Asri.txt
+Public_Malaysia_Nur Fatiyah Roslan betulllll.txt
+Public_Malaysia_Nur Fatiyah Roslan.txt
+Public_Malaysia_Nur Hasyimah Bt Ramli.txt
+Public_Malaysia_Nurin Syazwani Binti Shaharudin.txt
+Public_Malaysia_Nurshahirah Binti Zamri.txt
+Public_Malaysia_Nurul Izzati Bt. Mohd Zaki.txt
+Public_Malaysia_Nusaibah Binti Nasharudin.txt
+Public_Malaysia_Nusaibah Nasharudin.txt
+Public_Malaysia_Raja Intan Roslenyana Binti Raja Rosely.txt
+Public_Malaysia_Rozita Shamsuddin (2).txt
+Public_Malaysia_Rozita Shamsuddin.txt
+Public_Malaysia_Saidatulakmal Binti Abdul Hamid.txt
+Public_Malaysia_Sarminiyy AP Lenga Gururuloo.txt
+Public_Malaysia_Siti Aishah Binti Hassan.txt
+Public_Malaysia_Suhaila Binti Basar.txt
+Public_Malaysia_Suzani Azmin.txt
+Public_Malaysia_Suzarina Binti Suboh.txt
+Public_Malaysia_Syahmina Husna Binti Hafizz.txt
+Public_Malaysia_Syahrini Binti Shawalludin.txt
+Public_Malaysia_Syaidatul Binti Mohamed Taib.txt
+Public_Malaysia_Syed Zamzur Akasah Bin Syed Ahmed Jalaluddin.txt
+Public_Malaysia_Tan Siew Yean.txt
+Public_Malaysia_Ts. Marzuki Bin Abdullah.txt
+Public_Malaysia_Ts.Dr. Muhamad Firdaus Ramli.txt
+Public_Malaysia_Vadivelan SO Simadiri.txt
+Public_Malaysia_Yew Soo Cheng.txt
+Public_Malaysia_Zaidin Abadi (2).txt
+Public_Malaysia_Zaidin Abadi.txt
+Public_Malaysia_Zaihairun Bin Zulkifli.txt
+Public_Malaysia_Zurin Shaari.txt
+z(Missing Artwork) Public_America_Alejandra Gubinelli (1).txt
+z(Missing Artwork) Public_America_Alejandra Gubinelli (2).txt
