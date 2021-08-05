@@ -1,0 +1,6 @@
+Name: Yudi Ilham Nudin;
+Country: Indonesia;
+Title: Keep Fight_Animation Poster;
+Year: 2021;
+Concept: a simple animated poster, created using some simple animation techniques such as motion guides and motion tween.using contrasting colors as pop art forms and yellow backgrounds to deliver a warning message about the importance of continuing to fight against this pandemic.;
+
