@@ -1,0 +1,6 @@
+Name: Abagas Tri Saputra;
+Country: Indonesia;
+Title: Saran Keselamatan;
+Year: 2021;
+Concept: Saran Keselamatan adalah infografis animasi sederhana yang mencoba memberikan saran keselamatan mengenai virus Covid-19, mulai dari memberitahukan gejala, hal yang harus dilakukan untuk pencegahan dan hal yang harus dilakukan jika mengalami gejala.;
+

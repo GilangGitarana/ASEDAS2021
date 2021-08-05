@@ -1,0 +1,5 @@
+Name: Michal Stachacz;
+Country: Poland;
+Title: Medics;
+Year: 2020;
+Concept: Medical services facing Covid-19;

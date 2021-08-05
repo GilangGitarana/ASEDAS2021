@@ -1,0 +1,5 @@
+Name: Michal Stachacz;
+Country: Poland;
+Title: Economy;
+Year: 2021;
+Concept: Economy 2021;
